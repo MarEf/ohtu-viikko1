@@ -1,0 +1,3 @@
+if (tiedosto on tyhjä)
+	Kirjoita tekstiä.
+end if
